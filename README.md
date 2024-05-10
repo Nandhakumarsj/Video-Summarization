@@ -8,10 +8,10 @@
 
 ## Note
 
-- [x] Audio Summary
+- [ ] Audio Summary
 
-- [ ] Video Summary
+- [x] Video Summary
 
-- [ ] Playback Optimization
+- [x] Playback Optimization
 
-- [x] Playback Speed
+- [ ] Playback Speed
